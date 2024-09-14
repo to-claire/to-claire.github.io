@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "to-claire.github.io"
+  title: "Claire To"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 

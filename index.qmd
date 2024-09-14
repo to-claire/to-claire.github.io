@@ -1,11 +1,59 @@
 ---
-title: "to-claire.github.io"
+title: "Claire To"
+image: profile.jpeg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/claireto
+    - icon: github
+      text: Github
+      href: https://github.com/to-claire
+    - icon: spotify
+      text: Spotify
+      href: https://open.spotify.com/user/aap4yobn30murq0zcra9rfifa?si=65fa5e7b18e448c6
+    - icon: threads
+      text: Threads
+      href: https://www.threads.net/@claireato
+    - icon: file-text
+      text: Resume
+      href: files/resume.pdf
+    - icon: file-earmark-text
+      text: CV
+      href: files/cv.pdf
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
 
-```{r}
-1 + 1
-```
+My MTBI is INTJ-T. I'm passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilaties, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.
+
+*“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin*
+
+## Education
+
+*University of California, Irvine* \| B.S in Computer Science \| Sept 2023 - Jun 2025
+
+*Orange Coast College* \| A.S in Computer Science and A.A in Liberal Arts \| Aug 2020 - May 2023
+
+*Huntington Beach High School* \| Aug 2017 - June 2021
+
+## Experience
+
+*UC Irvine Donald Bren School of ICS* \| Undergraduate Reader/Grader \| Sept 2024 - Present
+
+*UC Irvine Donald Bren School of ICS* \| Undergraduate Researcher \| Jun 2024 - Present
+
+*USC Institute for Creative Technologies* \| Summer Research Intern \| May 2023 - Aug 2023
+
+*NASA* \| Research Scholar \| Jan 2023 - May 2023
+
+*Code Ninjas* \| Coding Instructor \| Jun 2021 - Nov 2022
+
+## Publications
+
+[Common Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive Task](https://www.semdial.org/anthology/papers/Z/Z23/Z23-4019/) @ SEMDIAL 2023
+
+<!-- To learn more about Quarto websites visit <https://quarto.org/docs/websites> -->

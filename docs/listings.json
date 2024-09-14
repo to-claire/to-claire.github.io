@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/choco-muffins/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/choco-muffins/index.html"
+    ]
+  }
+]
