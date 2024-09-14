@@ -18,19 +18,19 @@ about:
       href: https://www.threads.net/@claireato
     - icon: file-text
       text: Resume
-      href: files/resume.pdf
+      href: https://docs.google.com/document/d/1B2kTetxZx0yKFvi-rborQU-34cSidyyMkhJL9BZWnBc/edit?usp=sharing 
     - icon: file-earmark-text
       text: CV
-      href: files/cv.pdf
+      href: ..
 ---
 
 ## About
 
-Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
+Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in studying theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
 
 My MTBI is INTJ-T. I'm passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilates, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.
 
-*“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin*
+Currently, I am exploring Machine Learning & Data Mining and Computational Geometry in my studies and working as a reader/grader for Data Structures & Algorithms and undergrad researcher in the ICS department at UCI. On the side, I am studying ballet and contemporary dance at OCC!
 
 ## Education
 
