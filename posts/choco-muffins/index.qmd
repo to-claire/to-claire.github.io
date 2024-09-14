@@ -3,6 +3,7 @@ title: "Chocolate Muffins or Cupcakes"
 author: "Claire To"
 date: "2024-09-13"
 categories: [baking, recipes]
+title-block-banner: true
 ---
 
 Chocolate muffins and cupcakes are basically the same, aren't they? Except cupcakes have added frosting? This has been my most repeated recipes since it's so easy and satisfies my chocolate cravings! The bitterness is comparable to 90% dark chocolate to me, so I recommend you double the sugar if you prefer sweeter.
