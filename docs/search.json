@@ -1,66 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Claire To",
-    "section": "",
-    "text": "Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.\nMy MTBI is INTJ-T. I’m passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilaties, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.\n“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "blog.html",
+    "href": "blog.html",
     "title": "Blog",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nChocolate Muffins or Cupcakes\n\n\n\n\n\n\nbaking\n\n\nrecipes\n\n\n\n\n\n\n\n\n\nSep 13, 2024\n\n\nClaire To\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Claire To",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Irvine | B.S in Computer Science | Sept 2023 - Jun 2025\nOrange Coast College | A.S in Computer Science and A.A in Liberal Arts | Aug 2020 - May 2023\nHuntington Beach High School | Aug 2017 - June 2021"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Claire To",
-    "section": "Experience",
-    "text": "Experience\nUC Irvine Donald Bren School of ICS | Undergraduate Reader/Grader | Sept 2024 - Present\nUC Irvine Donald Bren School of ICS | Undergraduate Researcher | Jun 2024 - Present\nUSC Institute for Creative Technologies | Summer Research Intern | May 2023 - Aug 2023\nNASA | Research Scholar | Jan 2023 - May 2023\nCode Ninjas | Coding Instructor | Jun 2021 - Nov 2022"
-  },
-  {
-    "objectID": "index.html#hi",
-    "href": "index.html#hi",
-    "title": "Claire To",
-    "section": "Hi",
-    "text": "Hi\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Claire To",
-    "section": "Publications",
-    "text": "Publications\nCommon Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive Task @ SEMDIAL 2023"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Claire To",
-    "section": "",
-    "text": "Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.\nMy MTBI is INTJ-T. I’m passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilaties, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.\n“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "Research",
-    "section": "",
-    "text": "SEMDIAL 2023 Proceedings: Common Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive Task"
-  },
-  {
-    "objectID": "posts/choco-cupcakes/index.html",
-    "href": "posts/choco-cupcakes/index.html",
-    "title": "Chocolate Muffins",
-    "section": "",
-    "text": "12 servings 130 cal, 5g sugar per serving\nIngredients - 1 cup all-purpose flour - 1/2 cup cocoa powder - 1 teaspoon baking powder - 1/2 teaspoon baking soda - 1/2 teaspoon salt\n\n1/2 cup milk\n1/4 cup honey or maple syrup (this may be bitter so try 1/2 cup first)\n1/4 cup olive oil\n1 large egg\n1/2 teaspoon vanilla\n1/2 cup boiling bold expresso water\n\nInstructions 1. Preheat oven to 325º F. 2. Add dry ingredients in a large bowl and whisk to combine well. 3. Add wet ingredients in another bowl and mix to combine well. 3. Combine the dry and wet ingredients and mix well on medium speed. 4. Reduce speed and add in boiling water. 5. Beat on high speed for about 1 minute to add air into the batter. 6. Fill cupcake liner ~1/2 full. 7. Place in the oven and bake until a toothpick inserted in the center comes out clean ~20 minutes."
   },
   {
     "objectID": "posts/choco-muffins/index.html",
@@ -91,10 +35,38 @@
     "text": "Frosting"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Claire To",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nChocolate Muffins or Cupcakes\n\n\n\n\n\n\nbaking\n\n\nrecipes\n\n\n\n\n\n\n\n\n\nSep 13, 2024\n\n\nClaire To\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.\nMy MTBI is INTJ-T. I’m passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilaties, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.\n“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Claire To",
+    "section": "",
+    "text": "Hi! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.\nMy MTBI is INTJ-T. I’m passionate about self-improvement, health, nutrition, and fitness. Outside of school, I enjoy pilaties, dancing, baking healthy deserts, and reading books. I love fantasy romance novels and favorites are the Infernal Devices by Cassandra Clare.\n“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” ―George R.R. Martin"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Claire To",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Irvine | B.S in Computer Science | Sept 2023 - Jun 2025\nOrange Coast College | A.S in Computer Science and A.A in Liberal Arts | Aug 2020 - May 2023\nHuntington Beach High School | Aug 2017 - June 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Claire To",
+    "section": "Experience",
+    "text": "Experience\nUC Irvine Donald Bren School of ICS | Undergraduate Reader/Grader | Sept 2024 - Present\nUC Irvine Donald Bren School of ICS | Undergraduate Researcher | Jun 2024 - Present\nUSC Institute for Creative Technologies | Summer Research Intern | May 2023 - Aug 2023\nNASA | Research Scholar | Jan 2023 - May 2023\nCode Ninjas | Coding Instructor | Jun 2021 - Nov 2022"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Claire To",
+    "section": "Publications",
+    "text": "Publications\nCommon Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive Task @ SEMDIAL 2023"
   }
 ]
