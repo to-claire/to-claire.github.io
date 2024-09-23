@@ -26,7 +26,7 @@ about:
 
 ## About
 
-Hello, world! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in studying theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
+Hello World! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in studying theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
 
 My MTBI is INTJ-T. I'm passionate about self-improvement, health, and nutrition. Outside of school, I enjoy pilates, dancing, baking healthy deserts, and reading books. I normally read fantasy romance novels, but lately I have been exploring more classic romances!
 
