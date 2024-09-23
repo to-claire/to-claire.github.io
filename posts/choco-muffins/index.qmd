@@ -2,15 +2,11 @@
 title: "Chocolate Muffins or Cupcakes"
 author: "Claire To"
 date: "2024-09-13"
-categories: [baking, recipes]
+categories: [recipes]
 title-block-banner: true
 ---
 
-Chocolate muffins and cupcakes are basically the same, aren't they? Except cupcakes have added frosting? This has been my most repeated recipes since it's so easy and satisfies my chocolate cravings! The bitterness is comparable to 90% dark chocolate to me, so I recommend you double the sugar if you prefer sweeter.
-
-12 cupcakes, 130 cal per cupcake (5g sugar)
-
-*I use 1/4 honey and cacao powder in this calculation, so sugar levels may vary on the sweetener and powder used.*
+Chocolate muffins and cupcakes are basically the same, aren't they? Except cupcakes have added frosting? This has been my most repeated recipes since it's so easy and satisfies my chocolate cravings! With 1/4 cup honey, the bitterness is comparable to 90% dark chocolate to me, so I recommend you double the sugar if you prefer sweeter. This recipe makes 12 cupcakes.
 
 ## Ingredients
 
@@ -20,23 +16,23 @@ Chocolate muffins and cupcakes are basically the same, aren't they? Except cupca
 
 -   1/2 cup cocoa or cacao powder (cacao is the healthier option)
 
--   1 teaspoon baking powder
+-   1 tsp baking powder
 
--   1/2 teaspoon baking soda
+-   1/2 tsp baking soda
 
--   1/2 teaspoon salt
+-   1/2 tsp salt
 
 ### Wet Ingredients
 
--   1/2 cup whole milk
+-   1/2 cup milk
 
--   1/4 cup raw honey or pure maple syrup (1/2 cup for more sweetness)
+-   1/4-1/2 cup honey or maple syrup
 
 -   1/4 cup olive oil
 
 -   1 large egg
 
--   1/2 teaspoon vanilla
+-   1/2 tsp vanilla
 
 ### Water
 
@@ -46,11 +42,23 @@ Chocolate muffins and cupcakes are basically the same, aren't they? Except cupca
 
 1.  Preheat oven to 325º F.
 2.  Add dry ingredients in a large bowl and whisk to combine well.
-3.  Add wet ingredients (excluding expresso water) in another bowl and mix to combine well.
+3.  Add wet ingredients (excluding expresso) in another bowl and mix to combine well.
 4.  Combine the dry and wet ingredients and mix well on medium speed.
 5.  Reduce speed and add in boiling water.
 6.  Beat on high speed for about 1 minute to add air into the batter.
-7.  Fill cupcake liner \~1/2 full.
-8.  Bake until a toothpick inserted in the center comes out clean \~20 min.
+7.  Fill cupcake liner about 1/2 full.
+8.  Bake until a toothpick inserted in the center comes out clean about 20 min.
 
 ## Frosting
+
+Combine the following and pipe or spread onto cupcakes.
+
+-   1 large ripe avocado
+
+-   1 tbsp coconut oil
+
+-   1/3 cup cocoa or cacao powder
+
+-   2-4 tbsp honey or maple syrup
+
+-   1 tbsp milk
