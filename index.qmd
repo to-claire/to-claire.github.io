@@ -18,19 +18,21 @@ about:
       href: https://www.threads.net/@claireato
     - icon: file-text
       text: Resume
-      href: https://docs.google.com/document/d/1B2kTetxZx0yKFvi-rborQU-34cSidyyMkhJL9BZWnBc/edit?usp=sharing 
+      href: files/to_resume.pdf
     - icon: file-earmark-text
       text: CV
-      href: ..
+      href: files/to_academic_cv.pdf
 ---
 
 ## About
 
 Hello World! I am an undergraduate student studying Computer Science at UC Irvine. I am interested in studying theoretical computer science and researching in the field of computing education. My coursework follows the Algorithms and Intelligent Systems specialization tracks.
 
-My MBTI is INTJ-T. I'm passionate about self-improvement, health, and nutrition. Outside of school, I enjoy pilates, dancing, baking healthy deserts, and reading books. I normally read fantasy romance novels, but lately I have been exploring more classic romances!
+My MBTI is INTJ-T. I'm passionate about self-improvement, health, and nutrition. Outside of school, I enjoy pilates, dancing, baking healthy deserts, and reading. Lately, I have been exploring classic romance novels!
 
-Currently, I am studying Machine Learning & Data Mining and Computational Geometry in my coursework. I am working as a reader/grader for Data Structures & Algorithms and undergrad researcher in the ICS department at UCI. On the side, I am practicing ballet and contemporary dance at OCC!
+I love learning. I believe we should always strive to learn or experience something new each day, as a day without growth is a day wasted. There's always more to discover and understand in life. 
+
+Currently, I am studying Machine Learning & Data Mining and Computational Geometry in my coursework. I am working as a reader/grader for Data Structures & Algorithms and undergrad researcher in the Department of Computer Science at UCI. On the side, I am practicing ballet and contemporary dance at OCC!
 
 ## Education
 

@@ -1,5 +1,5 @@
 ---
-title: "Sea Salt Vanilla Custard Ice Cream"
+title: "French Vanilla Ice Cream"
 author: "Claire To"
 date: "2024-09-23"
 categories: [recipes]
