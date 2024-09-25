@@ -18,10 +18,10 @@ about:
       href: https://www.threads.net/@claireato
     - icon: file-text
       text: Resume
-      href: files/to_resume.pdf
+      href: https://drive.google.com/file/d/1TeYj1DR_qRlkhHbNmS16h0hXGDreJDpc/view?usp=share_link
     - icon: file-earmark-text
       text: CV
-      href: files/to_academic_cv.pdf
+      href: https://drive.google.com/file/d/1ae2Ru6JSXH55lbLpmG37ygZ6Vfs1e7Jt/view?usp=share_link
 ---
 
 ## About
