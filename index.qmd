@@ -17,11 +17,8 @@ about:
       text: Threads
       href: https://www.threads.net/@claireato
     - icon: file-text
-      text: Resume
-      href: https://drive.google.com/file/d/1TeYj1DR_qRlkhHbNmS16h0hXGDreJDpc/view?usp=share_link
-    - icon: file-earmark-text
-      text: CV
-      href: https://drive.google.com/file/d/1ae2Ru6JSXH55lbLpmG37ygZ6Vfs1e7Jt/view?usp=share_link
+      text: Resume / CV
+      href: https://drive.google.com/drive/folders/1vvsufWoBdL3SWrKoA-iJFj8wVbG9oOkj?usp=share_link
 ---
 
 ## About
@@ -55,6 +52,9 @@ Currently, I am studying Machine Learning & Data Mining and Computational Geomet
 *Code Ninjas* \| Coding Instructor \| Jun 2021 - Nov 2022
 
 ## Publications
+
+[Investigating the Capabilities of Generative AI in Solving Data Structures,
+Algorithms, and Computability Problems](https://sigcse2025.sigcse.org) @ SIGCSE 2025
 
 [Common Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive Task](https://www.semdial.org/anthology/papers/Z/Z23/Z23-4019/) @ SEMDIAL 2023
 
