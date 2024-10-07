@@ -4,6 +4,9 @@ image: profile.jpeg
 about:
   template: trestles
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:clairt2@uci.edu
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/claireto
