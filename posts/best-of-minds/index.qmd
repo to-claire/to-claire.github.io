@@ -1,0 +1,25 @@
+---
+title: "The Best of Minds"
+author: "Claire To"
+date: "2024-10-06"
+categories: [reflections]
+title-block-banner: true
+---
+
+In I&CS 139W: Critical Writing on Information Technology, we were assigned an in-class prompt to write about the best of anything, so I wrote about minds.
+
+The best of minds is a grateful one. What does it mean to have a grateful mindset? Throughout my interactions, I've noticed that those who cultivate a grateful mindset navigate life with greater ease, peace, and happiness. We all hope to find happiness, whether through our careers, families, or friendships. However, many of us fall into the trap of believing that once we achieve a certain goal, we will finally be satisfied. This perspective often leads to disappointment.
+
+Human nature drives us to strive for more, constantly searching for the next best thing, creating an infinite loop of unsatisfied desires. For instance, many of my peers often express feelings of unhappiness and anxiety, promising themselves they will be happy once they secure an internship. However, once they achieve that milestone, the happiness they experience tends to be temporary. The cycle continues as they then strive for a full-time job, telling themselves that only then will they be content. After landing a job, the focus shifts to promotions, perpetuating the belief that happiness is always just out of reach. 
+
+I believe that true happiness begins with a shift in mindset—one that emphasizes gratitude for the little things and everything we already have in life. Too often, we take our blessings for granted. It’s crucial to recognize that everyone is at a different point in their lives, striving for their own goals. What might seem trivial to us could be someone else’s dream. Consider the simple joys: having food to eat, a roof over our heads, or access to education. Even appreciating the pleasant weather or savoring your favorite morning coffee or tea can bring joy. Cultivating gratitude allows us to step back and appreciate the present moment.
+
+Even amidst challenges and hardships, a grateful mindset helps us focus on the positives and what is going well in our lives. By doing so, the difficulties we face can feel smaller and less consuming. Our brains naturally tend toward a negativity bias; we tend to remember negative experiences more vividly than positive ones. By actively practicing gratitude, we can shift our focus away from our struggles and instead embrace the positives.
+
+Everyone has something to be thankful for, no matter how small or seemingly insignificant. We don’t need an internship, a full-time job, or a promotion to experience happiness. The fact that we are alive is reason enough to find joy in our daily lives. It’s essential to seek moments of happiness throughout our journeys instead of waiting for a specific milestone.
+
+Moreover, I believe that nurturing a grateful mindset can attract success. The energy we project into the world and how we present ourselves is a reflection of our mindset. For instance, imagine a company choosing between two equally qualified candidates for a job. One candidate possesses a grateful attitude, while the other does not. The grateful candidate is likely to approach the interview with positivity and cheerfulness, making a lasting impression. Companies are naturally drawn to individuals who exude positivity and enthusiasm, as these traits foster a collaborative environment.
+
+Our emotions are contagious; we gravitate toward those who make us feel good. By surrounding ourselves with positivity, we not only improve our own outlook but also enhance our connections and opportunities. In a way, cultivating gratitude and happiness serves as a return on investment. By investing in our mindset, we can attract greater success and fulfillment in our lives.
+
+Ultimately, I hope that each of us realizes the power of gratitude, for the world could use a little more happiness, and that journey begins with a grateful mind.
