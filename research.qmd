@@ -9,7 +9,7 @@ David Eppstein, Michael T. Goodrich, Abraham M. Illickan, Claire A. To
 We study instance optimality--algorithms that achieve the performance of the best correct algorithm on every input, with respect to a measure. By leveraging input structure and sortedness, we design simple algorithms for classic computational geometry problems, including maxima set, convex hull, and visibility, and prove new bounds under a complexity measure sensitive to both properties.  
 [Paper](/research/entropy-cccg25-paper.pdf) | 
 [Poster](/research/entropy-urop2025-poster.pdf) | 
-[Slides](/research/entropy-cccg25-slides.pdf) ([Complete](/research/entropy-cccg25-slides-full.pdf))
+[Slides](/research/entropy-cccg25-slides.pdf) ([Unabridged](/research/entropy-cccg25-slides-full.pdf))
 
 ---
 
